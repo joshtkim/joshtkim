@@ -6,4 +6,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: REACT / JS / RUBY / RUBY ON RAILS / HTML / CSS
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshtkim&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtkim&layout=compact)](https://github.com/joshtkim/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshtkim&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtkim&layout=compact&show_icons=true&theme=dark)](https://github.com/joshtkim/github-readme-stats)
