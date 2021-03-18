@@ -5,3 +5,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: REACT / JS / RUBY / RUBY ON RAILS / HTML / CSS
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshtkim&hide=contribs,prs)
