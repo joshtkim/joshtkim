@@ -17,5 +17,6 @@ Skills: REACT / JS / RUBY / RUBY ON RAILS / HTML / CSS
 ### Want to Learn Next
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+<br></br>
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshtkim&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtkim&layout=compact&show_icons=true&theme=dark)
