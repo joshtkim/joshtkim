@@ -6,6 +6,7 @@ My name is Josh and I am a software developer from NY.
 Skills: REACT / JS / RUBY / RUBY ON RAILS / HTML / CSS
 
 ### Programming Languages
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
 ### Frameworks
 
