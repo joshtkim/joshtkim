@@ -12,6 +12,7 @@ Skills: REACT / JS / RUBY / RUBY ON RAILS / HTML / CSS
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ### Currently Learning
+![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![image](https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=for-the-badge&logo=ant-design&logoColor=white)
 
 ### Want to Learn Next
 
