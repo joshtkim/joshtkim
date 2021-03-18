@@ -19,4 +19,4 @@ Skills: REACT / JS / RUBY / RUBY ON RAILS / HTML / CSS
 
 <br></br>
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshtkim&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtkim&layout=compact&show_icons=true&theme=dark)
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshtkim&show_icons=true&theme=dark)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshtkim&layout=compact&show_icons=true&theme=dark)
